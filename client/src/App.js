@@ -22,7 +22,7 @@ class App extends Component {
       books: []
 
     });
-  };
+  };  
 
   handleFormSubmit = event => {
     // When the form is submitted, prevent its default behavior, get books update the books state
